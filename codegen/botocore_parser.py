@@ -14,8 +14,8 @@ primitive_types = {
 	'string': 'String',
 	'timestamp': 'String',
 	'integer': 'i32',
-        'long': 'i64',
-        'float': 'f32',
+    'long': 'i64',
+    'float': 'f32',
 	'double': 'f64',
 	'blob': 'Vec<u8>',
 	'boolean': 'bool'
